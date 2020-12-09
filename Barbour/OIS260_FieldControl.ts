@@ -7,7 +7,7 @@
 	Script arguments	:	
 	Prerequisites		:	
 			
-	Enables control of fields in OIS260 E panle and H panel by role
+	Enables control of fields in OIS260 E panel and H panel by role
 */
 class OIS260_FieldControl {
     private controller: IInstanceController;

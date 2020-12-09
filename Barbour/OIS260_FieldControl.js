@@ -7,7 +7,7 @@
     Script arguments	:
     Prerequisites		:
             
-    Enables control of fields in OIS260 E panle and H panel by role
+    Enables control of fields in OIS260 E panel and H panel by role
 */
 var OIS260_FieldControl = /** @class */ (function () {
     function OIS260_FieldControl(scriptArgs) {
